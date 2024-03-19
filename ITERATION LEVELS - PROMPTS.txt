@@ -1,0 +1,31 @@
+
+
+Seed activation levels:
+0 "seed" - Interpret these statements considering the corresponding meaning of the column name and row name associated with that element.
+1 - Transpose this into the context of generating engineering knowledge 
+***NOTE: This operation was performed sufficiently to resolve consistent elements for Matrices A and B.  
+While improvements are absolutely possible, the focus is on developing other parts of the framework.
+
+
+Datasheet Entry iteration levels:
+
+0 - Interpret these statements considering the corresponding meaning of the column name and row name associated with that element. 
+1 - Transpose this into the context of generating engineering knowledge.
+2 - Simplify the statements by using epithets.
+
+
+Design Checklist iteration levels:
+
+0 - Interpret these sentences considering the corresponding meaning of the column name and row name associated with that element.  
+1 - Simplify these sentences by looking for themes and concepts and using typical [industry / engineering / domain] jargon to express them.   
+2 - Now express the sentences as procedures for a professional engineer to follow.  
+3 -  Simplify the sentences by using epithets.
+
+Design Guide iteration levels:
+
+0 - Interpret these sentences considering the corresponding meaning of the column name and row name associated with that element.  Organize them by column.
+1 - Explain these sentences through themes and concepts by employing typical [industry / engineering / domain] jargon to express them.
+2 - Now express the sentences as principles for a professional engineer to follow.
+3 - Resolve the meaning of these principles into brief statements or epithets
+
+

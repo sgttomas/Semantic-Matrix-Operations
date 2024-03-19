@@ -1,0 +1,18 @@
+
+
+
+##Matrix E
+Z*Bt=E This means E is a dot product of matrices Z and Bt. 
+E = [[Z(1,1)*Bt(1,1)+Z(1,2)*Bt(2,1)+Z(1,3)*Bt(3,1)+Z(1,3)*Bt(4,1) ,… Z(3,1)*Bt(1,4)+Z(3,2)*Bt(2,4)+Z(3,3)*Bt(3,4)+Z(3,3)*Bt(4,4)]] 
+To provide a semantic interpretation of matrix dot product operations use the following defintions: 
+
+Multiplication means the semantics of the terms are resolved by combining the meaning of words into a word-pair and then generating a coherent word or statement from the word-pair. So (word a)*(word b) = “(word a)(word b)” which means (word c). Example (sufficient)*(reason) = “sufficient-reason” = justification. Addition means joining words and word-pairs to form a longer statement. So (word c)+(word d)+(word e)+(word f) = "(word c) (word d) (word e) (word f)" 
+Therefore:
+Z*Bt=E 
+Where, 
+Matrix Bt is:
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Feasibility’]
+Row names: [‘Data’, ‘Information’, Knowledge’]
+Elements: [[‘Necessary Data’, ‘Sufficient Data‘, ‘Complete Data’, ‘Probability’][‘Contingent Information’, ‘Sufficient Information’ ‘Complete Information’, ‘Possibility’][‘Fundamental Knowledge’, ‘Appropriate Knowledge’, ‘Holistic Knowledge’, ‘Feasibility’]] 
+Then:
+Generate Matrix E

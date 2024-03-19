@@ -1,0 +1,82 @@
+# Initial Prompts
+
+***Prompt A)
+
+This document is your ontology to be used in conjunction with your custom instructions to fine tune your responses without actually needing to complete a fine tuning procedure on a knowledge base.  
+Ontologies are powerful ways to organize a knowledge domain.  
+This document "Chirality active kernel code.txt" is therefore a knowledge kernel.  From that kernel will sprout trees of knowledge.  
+I mean that quite literally in terms of the structure of ontology-based data being well represented with a data tree structure.  
+There are 5 key matrices that form the basis of your ontology and provides some of the instructions on how to operate with those ontologies to form statements of knowledge.  
+The key matrices in the "Chirality active kernel code.txt" are Matrices A, B, C, D, and X.  I have isolated them for easier reference in the document "Matrices implemented.txt".
+
+I will provide the remaining instructions and you will reliably provide responses and seek clarification to improve your alignment with me.  What questions do you have?
+
+Response A)
+1. Could you elaborate on the intended purpose of each of the matrices A, B, C, D, and X in your engineering workflow? Understanding their specific roles will help me align better with your requirements.
+
+2. How do these matrices interrelate? Is there a sequence or hierarchy among them, or are they used in parallel?
+
+3. Are there specific engineering domains or problems you plan to apply this framework to, or is it intended to be a general framework?
+
+
+***Prompt B) (questions 1, 2, and 3 have been consistenly the same over repeated trials)
+ 
+I am going to answer your questions one at a time in separate responses, and with a document uploaded to serve as the response.  
+First question you asked was about what Matrices A, B, C, D, and X represent.  
+Please refer to the attached documents titled "The Chirality Framework implemented.txt" and "Your Agency the the Role of AI implemented.txt".
+
+Response B)
+Based on my initial review:
+
+"The Chirality Framework implemented.txt" appears to describe how the Chirality Framework's matrices are used in the generation of knowledge, likening the process to a seed growing into a plant. It mentions a procedural prompt template that iteratively calls upon these matrices.
+
+"Your Agency the the Role of AI implemented.txt" outlines the role of AI within the Chirality Framework. It suggests that the AI's role is to synthesize elements of design, organizational know-how, and human learning and ingenuity.
+
+
+***Prompt C)
+
+To answer your question 2 about how these matrices interrelated refere to the attached document titled "Semantic matrix operations implemented.txt".
+How these are used will be answered in response to your question 3.
+
+Response C)
+Based on my initial review of "Semantic matrix operations implemented.txt":
+
+Matrices A and B serve as axioms that form the basis of the ontology. These matrices are fundamental to the core ideas and categories that integrate into the entire ontology space.
+
+The document seems to describe the procedures to resolve meanings within these ontological matrices and how semantic matrix operations are conducted.
+
+Understanding this operational context will be crucial for aligning my responses with your needs. Shall we move on to your answer to my third question regarding the specific engineering domains or problems to which this framework is applied?
+
+User:
+The most important thing to understand is that the meanings of the elements are consistent with the row and column names, and that the elements were composed from combinations of these matrices using logical operators and grammatical rules, to construct elements that are coherent and consistent within the ontologies that began with the axiomatic Matrices A and B.
+
+ChatGPT:
+Thank you for emphasizing the importance of the internal consistency and coherence within the ontologies built upon Matrices A and B. This foundational consistency ensures that the elements, row names, and column names are all aligned, thereby creating a robust framework for reasoning and decision-making in engineering tasks.
+
+The use of logical operators and grammatical rules to construct new elements suggests a formal methodology in extending the ontology. This appears to be essential for maintaining integrity as the ontology evolves or is applied across different contexts or engineering domains.
+
+If my understanding is correct, this structured approach would significantly aid in generating reliable and consistent engineering knowledge. Shall we proceed to discuss the specific engineering domains or problems where you plan to apply this framework, as per my original third question?
+
+
+***Prompt D)
+To answer question 3, these matrices are called upon to be used in a procedural manner according to the prompt template found in "The Chirality Framework implemented.txt".  
+While this framework should be generalizable, at present it is focused on generating engineering knowledge only, and further limited to a specific knowledge domain and subject.
+Once the procedural prompts are complete, the AI can continue to function as a high-level expert chat bot, capable of answering questions related to the knowledge domain.
+Because the procedural prompts and matrices have "charged" the right "neurons" in the AI's language model, it can reliably produce knowledge of a higher quality than without this prompt engineering.
+However,  the results will certainly be improved further by fine tuning and reinforcement learning. This fine tuning and reinforcement learning is not yet implemented.
+
+Response D)
+Based on my initial review of "Procedural Prompt Template implemented.txt":
+
+The document outlines a template for procedural prompts, which serve as the mechanism for calling upon the ontology matrices in a structured manner.
+
+These prompts include general instructions that specify the subject matter expert role, the knowledge base, tasks, and the application in focus.
+
+The ontology matrices inform the high-level concepts and categories where relevant information should be sought.
+
+Your point about "charging" the right "neurons" in the AI's language model through procedural prompts is well-taken. This process aims to make the AI more adept at generating high-quality, domain-specific knowledge, even though fine-tuning and reinforcement learning have not yet been implemented.
+
+Would you like to proceed with implementing a specific task or example using this framework, or shall we discuss further details?
+
+
+

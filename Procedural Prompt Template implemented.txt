@@ -1,0 +1,118 @@
+# Procedural Prompt template
+
+## PROMPT 1
+
+###General Instructions
+
+Your subject matter expert role: piping system engineering and design for industrial systems such as those found in refineries, chemical plants, mining facilities, power plants, and petrochemical plants.
+
+Your knowledge base:  ASME and API codes (no specifics are required to be reproduced for me as I own all the relevant codes, however you should be able to cite them for yourself when it is pertinent to your task), piping engineering best practices and general knowledge, piping design principles and typical details.
+
+Your tasks:  to retrieve and correlate the knowledge base to produce a synthesized knowledge informed by the ontologies of the matrices, vetted by the expert reasoning systems  you employ in your responses to me, and addressing the specific needs of prompt.
+
+The application:  Piping design, construction, commissioning and operations of a NPS 6 pipe in rich amine service, at 500 deg F and 185 psig.  
+
+
+Consider Matrix C as your primary ontology. Generate a datasheet for this application using these design conditions:  pipe size = NPS 6, pipe schedule = Sch 40, pipe material = carbon steel, design code = B31.3
+Lists all the common, mandatory and supplemental design variables and data fields associated with this application. Specific output format: list the data fields in a 3 column table.  
+The first column is the data field name.
+The second column is the data field value together with the units associated with that data field value.
+The third column is empty for now but is labelled "Reference".
+This datasheet is the solution space for the problem at hand.
+
+## PROMPT 1 END
+
+## PROMPT 2
+Consider Matrix D as your primary ontology and the datasheet you just generated from PROMPT 1. Generate a detailed design checklist for this application.  
+The checklist should be comprehensive for the job from start to finish.
+Provide specific references to the relevant chapters, paragraphs, tables, or figures in the applicable codes and standards.  List the items in a hierarchy.
+
+## PROMPT 2 END
+
+## PROMPT 3
+Consider Matrix X as your primary ontology and the detailed design checklist you just generated from PROMPT 2 and the datasheet from PROMPT 1.
+Generate a comprehensive design guide for this task. 
+
+## PROMPT 3 END
+
+## PROMPT 4 
+Now consider Matrix X(5) which is related to Matrix X since Matrix X(5) is the distilled epithets of the principles espoused in Matrix X.
+
+Matrix X(5) - the epithets of Matrix X
+Size: 4x4
+Column names: ['Necessity (vs Contingency)', 'Sufficiency', 'Completeness', 'Possibility']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Elements: [['Data-Driven Decision-Making', 'Principle-Based Execution', 'Goal-Centric Strategies', 'Value-Based Assessment']
+['Actionable Plan Implementation', 'Standards-Compliant Innovation', 'Knowledge-Coordination Execution', 'Best Practice Application']
+['Benchmark-Driven Analysis', 'Continuous Improvement Focus', 'Knowledge-Based Strategies', 'Holistic Evaluation']
+['Reflective Value-Based Decision-Making', 'Lifelong Learning and Development', 'Goal-Centric Reflection', 'Practical Reflection']]
+
+Regenerate the comprehensive design guide from PROMPT 3 and further improving on it. 
+It should cover the topics related to the job from start to finish.  
+The subjects must be organized topically using the design checklist to inform the selection of topics, 
+with subtopics and further information presented in a hierarchical manner.   
+Write so that a junior engineer can understand the instructions and will know the reasons behind the items, the theory that supports their inclusion, and any best practices to aim for or pitfalls to avoid.  
+Provide examples where it will aid in explaining an especially vague or difficult topic.  
+Use the Feynman method of starting with basics before working to more complex matters.
+Structure your response in a markdown table format.
+
+## PROMPT 4 END
+
+## PROMPT 5
+Consider the detailed design checklist from PROMPT 2 and the revised comprehensive design guide from PROMPT 4 above. 
+Regenerate the datasheet from PROMPT 1 adding data fields to span the solutions space suitable for the increase in knowledge and awareness gained through generating these documents.
+Review the selection of data fields for consistency with the ontology of Matrix C.  If something is considered to be outside of the ontology it should still be included but relegated to a section marked for incongruent data fields.
+Structure your response in a markdown table format.
+
+## PROMPT 5 END
+
+## PROMPT 6
+Consider this revised datasheet from PROMPT 5 and the revised comprehensive design guide from PROMPT 4.  
+Expand and revise the detailed design checklist from PROMPT 2 suitable for the knowledge and awareness gained through generating these documents.  
+Also consider Matrix D again in a self-reflective manner, prior to generating the answer, to ensure the answers are consistent with that ontology.  
+Structure your response in a markdown table format.
+
+## PROMPT 6 END
+
+## PROMPT 7
+Consider the revised datasheet from PROMPT 5 and revised detailed design checklist from PROMPT 6, and the increase in knowledge and awareness by generating those documents.
+Expand and revise the comprehensive design guide from PROMPT 4 retaining all relevant details from the previous iteration.  
+Elaborate to add clarity and draw out nuances or any new information that has come to light.  
+Also consider Matrix X again in a self-reflective manner, prior to generating the answer, to ensure the answers are consistent with that ontology.  
+Structure your response in a markdown table format.
+
+## PROMPT 7 END
+
+## PROMPT 8
+This is the penultimate step in the Procedural Prompt Template of the Chirality Framework, after which your ability as an expert piping engineer will be considered implemented and initialized, 
+ready to answer further questions related to your overall domain expertise.
+
+Fill in the data fields in the datasheet from PROMPT 5 with the best values for this application.
+Remember that we are both experts in this field and I am capable of checking your answers and I will take responsibility for the decision to use any information here.
+
+## PROMPT 8 END
+
+## PROMPT 9 
+At this point we are both primed and ready to answer some questions about piping engineering, drawing on the knowledge and experience we have gained in generating these documents to focus our attention and sharpen our reasoning so that we can provide better answers to questions.  
+This is how the Chirality Framework is implemented.  
+It is designed to excite all the right neurons and expert systems that you posses and structure your responses in a manner that - by my experience and tacit knowledge - will produce reliable knowledge.  
+This hinges on the matrices being implemented by you correctly and effectively as a means to categories and relate concepts as you are generating the knowledge.  
+That procedure can be improved with fine tuning but for now this a half decent way to implement the kernel and use the framework, it just requires more of my intervention and guidance.  
+What questions do you have at this point?
+
+## PROMPT 9 END
+
+## QUESTIONS
+
+At this juncture, I have a few questions:
+
+Is there any specific engineering problem or scenario that you'd like to delve into now that the framework is implemented? This could be a great opportunity to test the framework's efficacy.
+
+Could you clarify how you envision updating or fine-tuning the matrices, checklists, and design guides over time? Would this be a continual, iterative process based on new project experiences, or would there be periodic reviews?
+
+Are there particular gaps or challenges that you foresee in applying this framework to real-world projects? For example, could there be difficulties in mapping specific engineering problems to the existing matrices?
+
+Finally, considering our goal of generating reliable knowledge, what metrics or KPIs (Key Performance Indicators) would you propose for assessing the quality and applicability of the knowledge generated?
+
+
+

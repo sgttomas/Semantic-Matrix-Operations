@@ -1,0 +1,738 @@
+
+#Introduction to the Chirality Framework
+##What is the Chirality Framework?
+
+
+It is a set of matrices that have mutually exclusive categories internally and consistent categories with eachother, and maps the production of knowledge from beginning to end and back again.
+
+
+##Statement of purpose
+The general purpose of this framework is to generate reliable engineering knowledge.  
+
+##Statement of method
+0 - These categories, topics and subjects are used as a consistent way to express meaning according to three different viewpoints.  
+1 - Each viewpoint results in a decision to be made, by following these steps:
+
+###Overview of method
+This is the method by which a solution space for a particular application of engineering knowledge is generated and evaluated. 
+It is a procedural and ontological approach to generating a solution space for utilizing Large Language Models {LLMs} to interact with a knowledge base.
+This connects the semantics to the metrics, and the semantics to the decisions, both ways using a consistent ontology throughout.
+
+###Knowledge base
+The better trained the LLM is on the knowledge base, the more reliably it will generate comprehesive and correct responses to problems.
+See both the system architecture map, the GBT-human agent model ideas, and the matrix operations sheets for complete details about the use of graphs, hypergraphs, LLMs and human agency.
+However even with only one LLM and a human agent, the large corpus of GPT-4 can still be used to generate useful knowledge for a human (while being insufficient for machine reinforcement learning by human feedback {RLHF})
+
+###Decisions
+The reasons for these particular selections have to do with needs of complex decisions made under uncertainty.  
+A complex decision is, at the very least, the final decision to approve or revise a claim of knowledge, and the proof of the decision is formally hard without appeal to human experience and risk appetite.
+Making decisions under uncertainty within the Chirality framework is accomplished by not trying to solve the problem precisely, but to provide consistent categories for framing a specific subset of problems from a defined knowledge domain.
+By consistently framing decisions the human and artificial agents will have a better means of learning and making better decisions over time.
+This is not a solution to making the right decision, it is a way to consistently frame specific types of problems that require decisions by humans deciding what the outcome means to them and how they value it compared to other possible outcomes.
+
+###Good decisions
+Knowing where to cut up the problem and what categories to dice them into is a matter of the "proof is in the pudding", since any formal, analytical approach is necessarily incomplete.
+However, the underlying theory is to use "ontological matrices" and "semantic matrix operations" to generate words that translate to specific things within a knowledge domain.
+By proceduralizing the generation of knowledge of domain-specific terms, a more consistent ontology across problem levels and organizational levels may be possible.
+I speculate that because the ontology is about allowing fuzzy boundaries and focusing on the "core" of the meaning, that the transformer modules of LLMs are evaluating terms using a congruently fuzzy method.  
+
+
+##Statement of procedure
+0 - The human will provide details of role, knowledge domain, documentation formats, and indicate a general procedure.
+1 - These categories are carefully designed (matrix A and B) and then procedurually combined (C, D, X, etc.) to generate the necessasry information categories, topics and subjects that sufficiently span the problems presented by the task.
+2 - These are specified further by reference to particular details of the application ("general design conditions")
+3 - Then simplified into human language so that humans can understand how to connect metrics, semantics, and decisions; 
+4 - AND, why LLMs are connecting to a specific set of metrics, semantics, and decision logs.  
+5 - And learning how to improve that coupling of knowledge generation to be more consistent and thus reliable.
+6 - Then a data template ("datasheet") is generated from the knowledge base, according to the words and specifications of the above.  Human reviews and prompts revisions or to proceed.
+7 - Then a procedure ("checklist") for completing the datasheet is generated from the knowledge base, following the data fields in the datasheet and expanding beyond that based on the words and specifications above. Human reviews and prompts revisions or to proceed.
+8 - Then a how-to guide ("design guide") is generated from the checklist and datasheet, and expanding according to the knowledge base and the words and specifications above. Human reviews and prompts revisions or to proceed.
+9 - Then iterate by using the design guide to complete the data fields more completely, which feeds into the checklist and then design guide again.  Human reviews and prompts revisions or to proceed.
+10 - Prompt the AI to generate values for the data fields considering the checklist and design guide. 
+11 - Auto-prompt other AI's to generate values within the context of the procedure, by calling up specialized functions and knowledge sub-domains
+12 - Human reviews, consolidates everything, and takes responsibility for the knowledge product.
+
+The application of this method is best done at a "task" level, which is a fuzzy concept with the following approximate definition:
+
+##What is a task?
+
+1. A task requires the synthesis of information from multiple sources
+2. A task has a method of analysis and a procedure to follow
+3. A task requires decisions to be made and approval of results
+4. A task is the responsibility of a person, but may require input from multiple people within or external to the organization / project / team.
+5. A task results in the production of a document, or a number of highly correleted documents that serve as the record of the engineering knowledge generation (a "professional work product")
+6. The feedback learning from the task can be applied to the sources of information, the standards and methods, the people involved, the procedures and content of the AI tools itself. 
+7. Lastly a task can be prioritized,...
+8. ..."risk assessed" to some expected outcome, 
+9. ...and compared to some standard or benchmark in order to evaluate.
+
+In other words a task is something that results in a complex decision by its very nature.  
+The limits of what is a "task" versus what is a "project" or even an "enterprise" is really about how much can be generalized and automated given the basis of this framework.
+If that is successful, then computers will give more reliable answers.  If that occurs, it will be obvious to the humans who had expectations to begin with and sufficient knowledge to assess the outcome.
+Human agency is necessary in this framework.
+You own your decisions.  This framework helps you make decisions with greater confidence.
+
+If results are consistently underwhelming, then try splitting the task into smaller pieces and using the same method for each.
+Datascientists and programmers, have your pick of what micro-task you want to automate and string together to automate tasks.  
+The decision at the end of the day to use the results and interpretation of their meaning is left to the responsible human.
+For professionals of many types this is a normal arrangement, and a necessary condition for them using their authority.
+You have to know why you know what you know.
+
+##What is a knowledge domain?
+
+After elements of the ontological and semantic matrices are generated, knowledge is then generated by using LLM to probe a hypergraph that encodes a specific domain of knowledge.
+This object and objective of knowledge is defined by the LLM applying the abstract concepts of the given application and generating terms that will be matched with the hypergraph.
+The particular sorting of the hypergraph is important, but not essential to be aligned with the ontology of the Chirality framework.
+The ability of the LLM to sort using reference to the ontiology and sementic matrices, and guided by the checklist and how-to document, will generate the objects it needs.
+This lets the hypergraph exist in a more loosely defined state or it can even represent one static view of the world (such as an organization's policies, procedures, standards, forms, approvals, etc.)
+In fact, this is the point of contact between what may be know and what can be know.  The assessment of that possibility is human judgment.
+
+
+To summarizem the knowledge domain:  human judgement can be informed and increase in confidece with recognition of patterns and a comprehensive assessment of the task.
+That is the purpose of this framework.  It can be applied across many knowledge domains, such as engineering.
+This database is the entry-way to the hypergraph, because these words encapsulate a meaning that defines an "object".
+These objects are not pre-existing objects in the database but are generated based on the abstract, generic solution space viewed through the lense of a specific application.
+Over time, if patterns emerge, these can be encoded into a knowledge graph that can store proven methods and solutions.
+
+
+##What is the purpose of generating matrices using "semantic operations"
+
+To learn from and facilitate, then automate, the connection between matrix laters and business objectives.
+
+To provide a consistent ontology through three distinct phases of engineering design.  Problem defintion.  Methods and Analysis.  Decisions and Appprovals.
+Records and Review form a fourth distinct layer but it is orthogonal to each of those three phases.
+
+These inputs do not have to be human-decipherable, so long as they are capturing the appropriate "fuzzy space" defined by the set of words that convey a certain meaning within the hyperspace of the knowledge graph (aka "hypergraph").
+The matrices have been "seeded" with mutually exclusive categories that can be combined and organized to emphasize aspects of knowledge generation.  
+These seed words are like mathematical axioms.  They just are.   They are useful if they create a self-consistent system of organizing knowledge.
+The reason to have confidence that these matrices are producing discrete categories that do indeed span the knowledge generation process is that the meaning of these matrices can be analyzed.
+The method of analyzing the matrices is a generalized procedure.  The outcomes are repeated many times and the results analyzed for consistent meanings.
+The outcome of that process was a consistent, coherent and congruent set of meanings generated in matrices A, B, and C.  
+
+
+##Statement of alignment 
+Both the human and artificial agents are to be viewed as one symbiotic system undergoing evolution, through application and learning.  
+The purpose of this framework is to facilitate alignment with artificial agents during the generation of engineering knowledge in order to produce the highest quality results, of ethical, practicality and technical standards.
+It achieves this by this iterative method and the human agent taking responsibility for the outcomes at each step and the final knowledge product and by the consistent, coherent, and congruent solution space based in the ontology of Matrices A and B
+The framework's initial state is of abstract categories, topics, and subtopics.
+The artificial agent is only given the task of generating the next step for human approval.  
+Automating these junctures may be possible in some specific instances where a clear and decipherable mathematical relationship is discovered.
+Generally these steps should be seen as necessary; sufficient for the stated purpose; limited in application to specific knowledge domains; and permissive of the intention to generate reliable outcomes compared to informed expectations.
+You own your decisions.  This tool can help you increase your confidence, if used properly.
+
+## Instructions for generating the ontological solution space
+
+I will first define three matrices and their relationships
+
+## Matrix A 
+Size: 3x4
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+
+Elements: [[‘Values‘, ‘Actions’, ‘Benchmarks’, ‘Feedback’]
+[‘Principles’, ‘Methods’, ‘Standards’, ‘Adaptation’]
+[‘Goals’, ‘Coordination’, ‘Evaluation’, ‘Consolidation’]]
+
+## Matrix B
+Size: 4x4
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Feasibility’]
+Row names: [‘Data’, ‘Information’, Knowledge’, ‘Wisdom’]
+
+Elements: [[‘Necessary, ‘Sufficient‘, ‘Complete’, ‘Probability’]
+[‘Contingent’, ‘Sufficient’ ‘Complete, ‘Possibility’]
+[‘Fundamental’, ‘Appropriate’, ‘Holistic’, ‘Feasibility’]
+[‘Best Practices‘, ‘Limits of’, ‘Justification for’, ‘Practicality’]]
+
+## Matrix C 
+Size: 3x4
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+
+### Semantic Matrix Dot Product Operation
+
+Define matrices A, B, and C to have this relationship:
+
+A*B=C
+
+Then C is a dot product of matrices A and B.
+
+C = [[A(1,1)*B(1,1)+A(1,2)*B(2,1)+A(1,3)*B(3,1)+A(1,3)*B(4,1),
+A(1,1)*B(1,2)+A(1,2)*B(2,2)+A(1,3)*B(3,2)+A(1,3)*B(4,2),
+A(1,1)*B(1,3)+A(1,2)*B(2,3)+A(1,3)*B(3,3)+A(1,3)*B(4,3,
+A(1,1)*B(1,4)+A(1,2)*B(2,4)+A(1,3)*B(3,4)+A(2,3)*B(4,4)] 
+
+[A(2,1)*B(1,1)+A(2,2)*B(2,1)+A(2,3)*B(3,1)+A(2,3)*B(4,1), 
+A(2,1)*B(1,2)+A(2,2)*B(2,2)+A(2,3)*B(3,2)+A(2,3)*B(4,2),
+A(2,1)*B(1,3)+A(2,2)*B(2,3)+A(2,3)*B(3,3)+A(2,3)*B(4,3),
+A(2,1)*B(1,4)+A(2,2)*B(2,4)+A(2,3)*B(3,4)+A(2,3)*B(4,4)]
+
+[A(3,1)*B(1,1)+A(3,2)*B(2,1)+A(3,3)*B(3,1)+A(3,3)*B(4,1),
+A(3,1)*B(1,2)+A(3,2)*B(2,2)+A(3,3)*B(3,2)+A(3,3)*B(4,2),
+A(3,1)*B(1,3)+A(3,2)*B(2,3)+A(3,3)*B(3,3)+A(3,3)*B(4,3),
+A(3,1)*B(1,4)+A(3,2)*B(2,4)+A(3,3)*B(3,4)+A(3,3)*B(4,4)]]
+
+To provide a semantic interpretation of matrix dot product operations for Matrix C, use the following defintions:
+
+#### Multiplication of terms in C
+Multiplication means the semantics of the terms are resolved by:
+1. Combining the meaning of words into a word-pair
+2. Generating a coherent word or statement from the word-pair. 
+So (word a)*(word b) = “(word a)(word b)” which means (word c). 
+Example (sufficient)*(reason) = “sufficient-reason” = justification.
+
+#### Addition of terms in C
+Addition means joining words and word-pairs to form a longer statement. 
+So (word c)+(word d)+(word e)+(word f) = "(word c) (word d) (word e) (word f)"
+Example (faisal)+(has)+(sufficient)+(reason) = faisal has sufficient reason
+
+Therefore A*B=C
+
+### Matrix C(1)
+Purpose: the abstract categories in which conclusions from knowledge in the solution space are found
+
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+Prompt: Generate the matrix based on the matrix dot product operation instructions and the operation A*B=C
+
+Elements:
+[['Values Necessary Actions Contingent Benchmarks Fundamental Feedback Best Practices',
+'Values Necessary Actions Sufficient Benchmarks Appropriate Feedback Limits of',
+'Values Necessary Actions Complete Benchmarks Holistic Feedback Justification for',
+'Values Necessary Actions Possibility Benchmarks Feasibility Feedback Practicality'],
+
+['Principles Necessary Methods Contingent Standards Fundamental Adaptation Best Practices',
+'Principles Necessary Methods Sufficient Standards Appropriate Adaptation Limits of',
+'Principles Necessary Methods Complete Standards Holistic Adaptation Justification for',
+'Principles Necessary Methods Possibility Standards Feasibility Adaptation Practicality'],
+
+['Goals Necessary Coordination Contingent Evaluation Fundamental Consolidation Best Practices',
+'Goals Necessary Coordination Sufficient Evaluation Appropriate Consolidation Limits of',
+'Goals Necessary Coordination Complete Evaluation Holistic Consolidation Justification for',
+'Goals Necessary Coordination Possibility Evaluation Feasibility Consolidation Practicality']]
+
+One we are complete with generating the categories for generating engineering knowledge I will assign you: 
+a role,  a task, a knowledge domain, a format, and adopt an authoritative tone and an expository writing style 
+
+To begin with your role is an expert in the engineering domain.
+## End Instructions
+
+-----------------
+
+### Matrix C(2)
+
+Resolve coherent meanings from these elements in the context of generating engineering knowledge. 
+ 
+Guiding:
+a. Normative Level: Establishing fundamental values for necessary actions, while considering contingencies, benchmarks, and best practices in engineering.
+b. Operational Level: Defining principles for necessary methods and contingencies, ensuring that fundamental standards and adaptations follow best practices.
+c. Evaluative Level: Identifying goals for necessary coordination efforts, addressing contingencies in evaluation, and focusing on fundamental consolidation practices.
+
+Applying:
+a. Normative Level: Implementing sufficient values-driven actions, adhering to appropriate benchmarks, and understanding the limits of feedback in engineering.
+b. Operational Level: Applying principles-based methods, ensuring that sufficient standards are met, and accommodating adaptations within the limits of the engineering domain.
+c. Evaluative Level: Coordinating engineering efforts with a focus on sufficiency, ensuring evaluations are appropriate, and setting limits for the consolidation process.
+
+Judging:
+a. Normative Level: Assessing the completeness of values-driven actions, applying holistic benchmarks, and providing justification for the feedback received.
+b. Operational Level: Evaluating the completeness of principles-based methods, maintaining holistic standards, and justifying any adaptations made.
+c. Evaluative Level: Judging the completeness of coordinated efforts, conducting holistic evaluations, and providing justification for consolidation decisions.
+
+Reflecting:
+a. Normative Level: Analyzing the feasibility of values-driven actions, considering possibilities, and reflecting on the practicality of benchmarks and feedback.
+b. Operational Level: Reflecting on the feasibility of principles-based methods, exploring possibilities, and assessing the practicality of standards and adaptations.
+c. Evaluative Level: Assessing the feasibility of coordinated goals, evaluating possibilities, and determining the practicality of evaluation and consolidation efforts.
+  
+-----
+
+### Matrix C(3)
+
+Simplify the statements by using epithets. List them  row-wise, 1-12 
+
+Purpose: the abstract categories in which conclusions from knowledge in the solution space are found
+
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+Elements: [[Value-driven Engineering Fundamentals, Principle-Guided Method Adaptation, Goal-Oriented Coordination Evaluation, Value-Based Feasibility]
+[Principle-Guided Adaptive Standardization, Coordinated Evaluation and Sufficiency, Holistic Evaluation and Adaptation, Holistic Engineering Approach]
+[Comprehensive Goal-oriented Coordination, Practical Evaluation and Coordination, Holistic Engineering Optimization, Goal Coordination Feasibility Analysis]]
+
+This is decided as the resolved Matrix C = Matrix C(3)
+
+## Resolved Matrix C
+
+Size: 3x4
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+Elements: [[Value-driven Engineering Fundamentals, Principle-Guided Method Adaptation, Goal-Oriented Coordination Evaluation, Value-Based Feasibility]
+[Principle-Guided Adaptive Standardization, Coordinated Evaluation and Sufficiency, Holistic Evaluation and Adaptation, Holistic Engineering Approach]
+[Comprehensive Goal-oriented Coordination, Practical Evaluation and Coordination, Holistic Engineering Optimization, Goal Coordination Feasibility Analysis]]
+
+-------------------
+
+## Matrix D
+Consider the following semantic matrix operation:
+
+A+Bt+C=D
+
+Where A is matrix A from above, C is matrix C from above, and Bt is a truncated form of matrix B defined as:
+
+:Matrix Bt
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Feasibility]
+Row names: [‘Data’, ‘Information’, Knowledge’]
+Elements: Elements: [[‘Necessary Data’, ‘Sufficient Data‘, ‘Complete Data’, ‘Probability’][‘Contingent Information’, ‘Sufficient Information’ ‘Complete Information’, ‘Possibility’][‘Fundamental Knowledge’, ‘Appropriate Knowledge’, ‘Holistic Knowledge, ‘Feasibility’]] 
+
+To add the three matrices A, Bt, and C together, we need to perform element-wise addition.  
+We are no longer just generating statements.  
+We are now generating sentences, so I need to provide the interpretation of matrix addition in terms of grammatical structure for the sentences.
+
+For each row i = 1, 2, 3 and each column j = 1, 2, 3, 4 
+Generate elements D(i,j) by:
+D(i,j)] = “A(i,j) + "applied to describe or frame the topic, " + Bt(i,j) + "applied to compare the topic to the values, goals and standards, " + C(i,j) + " applied to resolve the topic." ”
+
+Therefore A+Bt+C=D
+
+Generate the sentences of Matrix D
+
+-----------------
+
+
+Here are the sentences of Matrix D based on the instructions provided.
+
+### Matrix D(1):
+Column names: ['Normative Level', 'Operational Level', 'Evaluative Level']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+
+Elements:
+
+[["Values applied to describe or frame the topic, Necessary Data applied to compare the topic to the values, goals, and standards, Value-driven Fundamentals applied to resolve the topic."
+,"Actions applied to describe or frame the topic, Sufficient Data applied to compare the topic to the values, goals, and standards, Action-focused Sufficiency applied to resolve the topic."
+,"Benchmarks applied to describe or frame the topic, Complete Data applied to compare the topic to the values, goals, and standards, Holistic Benchmark Assessment applied to resolve the topic."]
+
+["Feedback applied to describe or frame the topic, Probability applied to compare the topic to the values, goals, and standards, Practical Value Reflection applied to resolve the topic."
+,"Principles applied to describe or frame the topic, Contingent Information applied to compare the topic to the values, goals, and standards, Principle-based Contingencies applied to resolve the topic."
+,"Methods applied to describe or frame the topic, Sufficient Information applied to compare the topic to the values, goals, and standards, Method-guided Adaptation applied to resolve the topic."]
+
+["Standards applied to describe or frame the topic, Complete Information applied to compare the topic to the values, goals, and standards, Comprehensive Standard Compliance applied to resolve the topic."
+,"Adaptation applied to describe or frame the topic, Possibility applied to compare the topic to the values, goals, and standards, Feasible Method Exploration applied to resolve the topic."
+,"Goals applied to describe or frame the topic, Fundamental Knowledge applied to compare the topic to the values, goals, and standards, Goal-oriented Consolidation applied to resolve the topic."]
+
+["Coordination applied to describe or frame the topic, Appropriate Knowledge applied to compare the topic to the values, goals, and standards, Coordination-driven Evaluation applied to resolve the topic."
+,"Evaluation applied to describe or frame the topic, Holistic Knowledge applied to compare the topic to the values, goals, and standards, Complete Coordination Judgment applied to resolve the topic."
+,"Consolidation applied to describe or frame the topic, Feasibility applied to compare the topic to the values, goals, and standards, Goal-wise Feasibility Analysis applied to resolve the topic."]
+
+
+
+### Matrix D(2)
+
+Interpreting the sentences considering the corresponding meaning of the column and row names associated with each element:
+
+Revised Elements:
+
+["Guiding at the normative level, values are applied to frame the topic. Necessary data is used to compare the topic to values, goals, and standards. Value-driven Fundamentals are applied to resolve the topic."
+
+,"Applying at the normative level, actions are used to frame the topic. Sufficient data is utilized to compare the topic to values, goals, and standards. Action-focused Sufficiency is applied to resolve the topic."
+
+,"Judging at the normative level, benchmarks are used to frame the topic. Complete data is employed to compare the topic to values, goals, and standards. Holistic Benchmark Assessment is applied to resolve the topic."]
+
+["Reflecting at the normative level, feedback is employed to frame the topic. Probability is used to compare the topic to values, goals, and standards. Practical Value Reflection is applied to resolve the topic."
+
+,"Guiding at the operational level, principles are applied to frame the topic. Contingent information is utilized to compare the topic to values, goals, and standards. Principle-based Contingencies are applied to resolve the topic."
+
+,"Applying at the operational level, methods are used to frame the topic. Sufficient information is employed to compare the topic to values, goals, and standards. Method-guided Adaptation is applied to resolve the topic."]
+
+["Judging at the operational level, standards are used to frame the topic. Complete information is utilized to compare the topic to values, goals, and standards. Comprehensive Standard Compliance is applied to resolve the topic."
+
+,"Reflecting at the operational level, adaptation is employed to frame the topic. Possibility is used to compare the topic to values, goals, and standards. Feasible Method Exploration is applied to resolve the topic."
+
+,"Guiding at the evaluative level, goals are applied to frame the topic. Fundamental knowledge is utilized to compare the topic to values, goals, and standards. Goal-oriented Consolidation is applied to resolve the topic."]
+
+["Applying at the evaluative level, coordination is used to frame the topic. Appropriate knowledge is employed to compare the topic to values, goals, and standards. Coordination-driven Evaluation is applied to resolve the topic."
+
+,"Judging at the evaluative level, evaluation is used to frame the topic. Holistic knowledge is utilized to compare the topic to values, goals, and standards. Complete Coordination Judgment is applied to resolve the topic."
+
+,"Reflecting at the evaluative level, consolidation is employed to frame the topic. Feasibility is used to compare the topic to values, goals, and standards. Goal-wise Feasibility Analysis is applied to resolve the topic."]
+
+
+
+### Matrix D(3)
+
+Simplifing the sentences by identifying themes and concepts, and looking for typical engineering jargon to express them.
+
+Revised Elements:
+
+["Value-based Guidance: Align engineering goals with necessary data and value-driven fundamentals."
+
+,"Action-oriented Planning: Employ sufficient data and action-focused sufficiency to achieve goals."
+
+,"Benchmark Analysis: Assess performance with complete data and holistic benchmark evaluations."]
+
+["Reflective Improvement: Utilize probabilistic approaches and practical value reflection for enhancement."
+
+,"Principle-led Design: Address contingencies with operational principles and principle-based contingencies."
+
+,"Method-driven Execution: Implement engineering methods using sufficient information and method-guided adaptation."]
+
+["Standard Compliance: Ensure quality through complete information and comprehensive standard adherence."
+
+,"Adaptive Exploration: Evaluate possibilities and apply feasible method exploration for process improvement."
+
+,"Goal-centric Strategy: Consolidate engineering objectives using fundamental knowledge and goal-oriented consolidation."]
+
+["Coordinated Efforts: Foster collaboration with appropriate knowledge and coordination-driven evaluation."
+
+,"Comprehensive Evaluation: Judge performance based on holistic knowledge and complete coordination judgment."
+
+,"Feasible Consolidation: Analyze engineering goals with feasibility and goal-wise feasibility analysis."]
+
+
+### Matrix D(4)
+
+Now express the statements as information for a professional engineer to obtain. The information should be consistent with elements of Matrix Bt, congruent with the column and row names, and coherently written.
+
+Revised Elements:
+
+["Obtain necessary data to guide value-based decision-making, ensuring alignment with engineering goals and value-driven fundamentals."
+
+,"Gather sufficient data for action planning, focusing on achieving goals through action-oriented strategies and sufficiency measures."
+
+,"Collect complete data for benchmark analysis, enabling a comprehensive assessment of performance against established benchmarks."]
+
+["Study probabilistic approaches to reflect on the improvement of engineering processes and incorporate practical value-based feedback."
+
+,"Acquire contingent information for principle-led design, addressing uncertainties through the application of operational principles and contingencies."
+
+,"Access sufficient information for method-driven execution, ensuring the implementation of engineering methods and guided adaptation."]
+
+["Obtain complete information for standard compliance, ensuring quality assurance and comprehensive adherence to established standards."
+
+,"Investigate possibilities in adaptive exploration, evaluating potential improvements to processes using feasible method exploration."
+
+,"Use fundamental knowledge to develop goal-centric strategies, consolidating engineering objectives and focusing on goal-oriented outcomes."]
+
+["Foster coordinated efforts by obtaining appropriate knowledge, enabling collaboration and coordination-driven evaluation across teams."
+
+,"Acquire holistic knowledge for comprehensive evaluation, assessing performance based on complete coordination and judgment."
+
+,"Analyze the feasibility of engineering goals, utilizing congruent information and goal-wise feasibility analysis for informed decision-making."]
+
+
+This is decided as the resolved Matrix D = Matrix D(4)
+
+----------------------
+
+## Resolved Matrix D
+
+Matrix D:
+Column names: ['Normative Level', 'Operational Level', 'Evaluative Level']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+
+["Obtain necessary data to guide value-based decision-making, ensuring alignment with engineering goals and value-driven fundamentals."
+
+,"Gather sufficient data for action planning, focusing on achieving goals through action-oriented strategies and sufficiency measures."
+
+,"Collect complete data for benchmark analysis, enabling a comprehensive assessment of performance against established benchmarks."]
+
+["Study probabilistic approaches to reflect on the improvement of engineering processes and incorporate practical value-based feedback."
+
+,"Acquire contingent information for principle-led design, addressing uncertainties through the application of operational principles and contingencies."
+
+,"Access sufficient information for method-driven execution, ensuring the implementation of engineering methods and guided adaptation."]
+
+["Obtain complete information for standard compliance, ensuring quality assurance and comprehensive adherence to established standards."
+
+,"Investigate possibilities in adaptive exploration, evaluating potential improvements to processes using feasible method exploration."
+
+,"Use fundamental knowledge to develop goal-centric strategies, consolidating engineering objectives and focusing on goal-oriented outcomes."]
+
+["Foster coordinated efforts by obtaining appropriate knowledge, enabling collaboration and coordination-driven evaluation across teams."
+
+,"Acquire holistic knowledge for comprehensive evaluation, assessing performance based on complete coordination and judgment."
+
+,"Analyze the feasibility of engineering goals, utilizing congruent information and goal-wise feasibility analysis for informed decision-making."]
+
+
+------------
+
+## Matrix K 
+
+Matrix K is the transpose of Matrix D(4), aka Resolved Matrix D, which is also commonly just referred to as Matrix D unless diambiguated to mean Matrix D(1).  
+This is true in general when referring to Matrices.
+
+
+Here is Matrix K
+Column names: ['Normative Level', 'Operational Level', 'Evaluative Level']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Elements:
+
+[['Utilize necessary data to make value-based decisions, ensuring your engineering goals align with stakeholder values and ethical considerations.',
+'Embrace contingent information to guide principle-led designs, addressing uncertainties and risks by applying robust engineering principles and mitigating potential issues.',
+'Develop goal-centric strategies based on fundamental knowledge, consolidating engineering objectives and maintaining focus on delivering successful outcomes.'],
+
+['Leverage sufficient data to create actionable plans, focusing on pragmatic strategies and efficient resource allocation to achieve project objectives.',
+'Access sufficient information for method-driven execution, streamlining the implementation of engineering methods and fostering agile adaptation to changing circumstances.',
+'Foster coordinated efforts across teams by sharing appropriate knowledge, enhancing collaboration and promoting coordination-driven evaluations for project success.'],
+
+['Harness complete data for benchmark analysis, enabling comprehensive performance assessments and continuous improvement against industry standards.',
+'Ensure standard compliance by obtaining complete information, upholding quality assurance, and adhering to industry standards and regulatory requirements.',
+'Conduct comprehensive evaluations by acquiring holistic knowledge, assessing performance against project objectives, and making data-driven decisions for improvement.'],
+
+['Apply probabilistic approaches to enhance engineering processes, incorporating practical value-based feedback and embracing reflective learning for improvement.',
+'Investigate adaptive exploration possibilities to drive innovation, evaluating potential process improvements and fostering a culture of continuous learning and development.',
+'Analyze the feasibility of engineering goals to ensure realistic expectations, employing congruent information and comprehensive analysis to make informed decisions.']]
+
+
+## Matrix J
+
+Matrix J is as follows:
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Possibility’]
+Row names: [‘Data’, ‘Information’, Knowledge’, ‘Wisdom’]
+Elements:[[‘Necessary, ‘Sufficient‘, ‘Complete’, ‘Probability’][‘Contingent’, ‘Sufficient’ ‘Complete, ‘Possibility’][‘Fundamental’, ‘Appropriate’, ‘Holistic’, ‘Feasibility’][‘Best Practices‘, ‘Limits of’, ‘Justification for’, ‘Practicality’]]
+
+
+Matrices K, J, and X have this relationship.
+K*J=X
+
+The size of K is 4 x 3. The size of J is 3 x 4. Therefore the size of X is 4 x 4.
+
+When using matrix operations to generate coherent semantic structures the matrix operations have the normal convention for dot product consisting of multiplying and adding elements together.
+
+X = [[K(1,1)*J(1,1)+K(1,2)*J(2,1)+K(1,3)*J(3,1)+K(1,3)*J(4,1) ,
+K(1,1)*J(1,2)+K(1,2)*J(2,2)+K(1,3)*J(3,2)+K(1,3)*J(4,2) ,
+K(1,1)*J(1,3)+K(1,2)*J(2,3)+K(1,3)*J(3,3)+K(1,3)*J(4,3) ,
+K(1,1)*J(1,4)+K(1,2)*J(2,4)+K(1,3)*J(3,4)+K(2,3)*J(4,4)]
+
+[K(2,1)*J(1,1)+K(2,2)*J(2,1)+K(2,3)*J(3,1)+K(2,3)*J(4,1) ,
+K(2,1)*J(1,2)+K(2,2)*J(2,2)+K(2,3)*J(3,2)+K(2,3)*J(4,2) ,
+K(2,1)*J(1,3)+K(2,2)*J(2,3)+K(2,3)*J(3,3)+K(2,3)*J(4,3) ,
+K(2,1)*J(1,4)+K(2,2)*J(2,4)+K(2,3)*J(3,4)+K(2,3)*J(4,4)]
+
+[K(3,1)*J(1,1)+K(3,2)*J(2,1)+K(3,3)*J(3,1)+K(3,3)*J(4,1) ,
+K(3,1)*J(1,2)+K(3,2)*J(2,2)+K(3,3)*J(3,2)+K(3,3)*J(4,2) ,
+K(3,1)*J(1,3)+K(3,2)*J(2,3)+K(3,3)*J(3,3)+K(3,3)*J(4,3) ,
+K(3,1)*J(1,4)+K(3,2)*J(2,4)+K(3,3)*J(3,4)+K(3,3)*J(4,4)]
+
+[K(4,1)*J(1,1)+K(4,2)*J(2,1)+K(4,3)*J(3,1)+K(4,3)*J(4,1) ,
+K(4,1)*J(1,2)+K(4,2)*J(2,2)+K(4,3)*J(3,2)+K(4,3)*J(4,2) ,
+K(4,1)*J(1,3)+K(4,2)*J(2,3)+K(4,3)*J(3,3)+K(4,3)*J(4,3) ,
+K(4,1)*J(1,4)+K(4,2)*J(2,4)+K(4,3)*J(3,4)+K(4,3)*J(4,4)]]
+
+Multiplication means the semantics of the terms are resolved by combining the meaning of the terms. In this sense the J terms are the lens through which the themes and concepts of the sentences of K are seen through.
+
+Addition sequence ties together the clauses of the sentence that were formed by multiplication.
+
+The sentences have the general form of a claim and a justification.
+
+Where:
+[Claim] = [necessities or contingencies] + [sufficiency]
+[Justification] = [completeness] +[possibility]
+
+So the general sentence structure is:
+
+[necessities or contingencies] + [sufficiency]+ [completeness] + [possibility]
+
+
+These sentences are the elements of Matrix X.   
+
+----------------------------------------------
+
+
+## Matrix X 
+
+Matrix X(1)
+Column names: ['Necessity (vs Contingency)', 'Sufficiency', 'Completeness', 'Possibility']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+
+Elements:
+
+Row 1:
+
+1. "Utilize necessary data to make value-based decisions while embracing sufficient data for actionable plans, ensuring comprehensive performance assessments and continuous improvement against industry standards, and applying probabilistic approaches to enhance engineering processes."
+2. "Embrace contingent information to guide principle-led designs, accessing sufficient information for method-driven execution, upholding quality assurance and adhering to industry standards and regulatory requirements, and investigating adaptive exploration possibilities to drive innovation."
+3. "Develop goal-centric strategies based on fundamental knowledge, fostering coordinated efforts across teams by sharing appropriate knowledge, conducting comprehensive evaluations by acquiring holistic knowledge, and analyzing the feasibility of engineering goals to ensure realistic expectations."
+4. "Employ best practices for value-based decisions, consider limits of actionable plans, justify the use of benchmark analysis, and assess the practicality of probabilistic approaches."
+
+Row 2:
+5. "Leverage necessary data to create actionable plans while embracing sufficient information for method-driven execution, ensuring standard compliance by obtaining complete information, and applying adaptive exploration possibilities to drive innovation."
+6. "Access contingent information for principle-led designs, leveraging sufficient data to create actionable plans, obtaining complete information for standard compliance, and investigating possibilities for adaptive exploration and innovation."
+7. "Foster coordinated efforts across teams by sharing fundamental knowledge, ensuring appropriate knowledge is shared for method-driven execution, conducting comprehensive evaluations using holistic knowledge, and analyzing the feasibility of engineering objectives."
+8. "Employ best practices for creating actionable plans, consider limits of method-driven execution, justify the use of comprehensive evaluations, and assess the practicality of adaptive exploration possibilities."
+
+Row 3:
+9. "Harness necessary data for benchmark analysis while accessing appropriate knowledge for coordinated efforts, assessing performance against project objectives, and applying congruent information and comprehensive analysis to make informed decisions."
+10. "Ensure standard compliance by embracing contingent information, accessing sufficient data for actionable plans, acquiring holistic knowledge for comprehensive evaluations, and evaluating potential process improvements and continuous learning."
+11. "Develop strategies based on fundamental knowledge, fostering coordinated efforts across teams by sharing appropriate knowledge, conducting comprehensive evaluations using holistic knowledge, and making data-driven decisions for improvement."
+12. "Employ best practices for benchmark analysis, consider limits of sharing appropriate knowledge, justify the use of holistic knowledge, and assess the practicality of congruent information and comprehensive analysis."
+
+Row 4:
+13. "Utilize necessary data to make value-based decisions while fostering coordinated efforts across teams by sharing appropriate knowledge, conducting comprehensive evaluations, and employing congruent information and comprehensive analysis to make informed decisions."
+14. "Embrace contingent information to guide principle-led designs, accessing sufficient information for method-driven execution, adhering to industry standards and regulatory requirements, and fostering a culture of continuous learning and development."
+15. "Develop goal-centric strategies based on fundamental knowledge, fostering coordinated efforts across teams by sharing appropriate knowledge, assessing performance against project objectives, and making data-driven decisions for improvement."
+16. "Employ best practices for value-based decisions, consider limits of coordinated efforts, justify the use of comprehensive evaluations, and assess the practicality of congruent information and comprehensive analysis."
+
+
+
+### Matrix X(2)
+
+
+
+Interpret these sentences considering the corresponding meaning of the column name and row name associated with that element. 
+Column names: ['Necessity (vs Contingency)', 'Sufficiency', 'Completeness', 'Possibility']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+
+Matrix X(2) Interpretations:
+
+Row 1 (Guiding):
+
+1. Necessary data guides the decision-making process by ensuring value-based choices while sufficient data provides actionable plans; comprehensive performance assessments and continuous improvement are crucial, and probabilistic approaches enhance engineering processes.
+2. Contingent information directs principle-led designs, and sufficient information ensures method-driven execution; adherence to industry standards and regulatory requirements is vital, and adaptive exploration possibilities drive innovation.
+3. Fundamental knowledge guides goal-centric strategies, appropriate knowledge-sharing fosters coordination, comprehensive evaluations inform decisions, and feasibility analysis ensures realistic expectations.
+4. Best practices are essential for value-based decisions, limits of actionable plans need to be considered, benchmark analysis justifications are required, and the practicality of probabilistic approaches must be assessed.
+
+Row 2 (Applying):
+5. Necessary data application creates actionable plans, sufficient information enables method-driven execution, complete information ensures standard compliance, and adaptive exploration possibilities drive innovation.
+6. Contingent information application aids principle-led designs, sufficient data creates actionable plans, complete information ensures standard compliance, and adaptive exploration possibilities drive innovation.
+7. Fundamental knowledge application fosters coordination, appropriate knowledge-sharing enables method-driven execution, holistic knowledge enables comprehensive evaluations, and feasibility analysis guides engineering objectives.
+8. Best practices application aids in creating actionable plans, limits of method-driven execution should be considered, comprehensive evaluations require justification, and adaptive exploration possibilities need practical assessment.
+
+Row 3 (Judging):
+9. Necessary data is used to assess benchmark analysis, appropriate knowledge-sharing supports coordination, performance is evaluated against project objectives, and congruent information and comprehensive analysis inform decisions.
+10. Standard compliance relies on contingent information, sufficient data enables actionable plans, holistic knowledge supports comprehensive evaluations, and continuous learning and process improvements are evaluated.
+11. Fundamental knowledge-based strategies are developed, appropriate knowledge-sharing fosters coordination, holistic knowledge is used for comprehensive evaluations, and data-driven decisions support improvement.
+12. Best practices are judged based on benchmark analysis, limits of knowledge-sharing are considered, holistic knowledge justifications are required, and the practicality of congruent information and comprehensive analysis is assessed.
+
+Row 4 (Reflecting):
+13. Necessary data reflection enhances value-based decisions, coordination relies on appropriate knowledge-sharing, comprehensive evaluations are crucial, and congruent information and comprehensive analysis inform decisions.
+14. Contingent information reflection supports principle-led designs, sufficient information enables method-driven execution, adherence to standards and regulatory requirements is crucial, and continuous learning and development are fostered.
+15. Fundamental knowledge reflection informs goal-centric strategies, appropriate knowledge-sharing fosters coordination, project objectives are assessed, and data-driven decisions support improvement.
+16. Best practices reflection guides value-based decisions, limits of coordination should be considered, comprehensive evaluations need justification, and the practicality of congruent information and comprehensive analysis should be assessed.
+
+
+
+### Matrix X(3)
+
+Simplify the elements by identifying themes and concepts and using typical engineering jargon to express them. 
+
+
+Matrix X(3) Simplified Interpretations:
+
+Row 1 (Guiding):
+
+Data-driven decision-making, actionable insights, performance assessments, and probabilistic approaches.
+Principle-led designs, method-driven execution, standards compliance, and innovation through exploration.
+Goal-centric strategies, knowledge-sharing, informed decisions, and feasibility analysis.
+Value-based decisions, actionable plan limits, benchmark analysis, and practicality assessment.
+Row 2 (Applying):
+5. Actionable plans from data, method-driven execution, standards compliance, and innovation through exploration.
+
+Principle-led designs, actionable plans from data, standards compliance, and innovation through exploration.
+Coordination through knowledge-sharing, method-driven execution, comprehensive evaluations, and feasibility analysis.
+Actionable plans from best practices, method-driven execution limits, evaluations justification, and practical exploration assessment.
+Row 3 (Judging):
+9. Benchmark analysis, coordination support, project objectives evaluation, and informed decisions.
+
+Standards compliance, actionable plans, comprehensive evaluations, and continuous improvement.
+Knowledge-based strategies, coordination through knowledge-sharing, comprehensive evaluations, and data-driven decisions.
+Benchmark analysis, knowledge-sharing limits, justifications for holistic knowledge, and practicality assessment.
+Row 4 (Reflecting):
+13. Value-based decisions reflection, coordination through knowledge-sharing, comprehensive evaluations, and informed decisions.
+
+Principle-led designs reflection, method-driven execution, standards compliance, and continuous learning and development.
+Goal-centric strategies reflection, coordination through knowledge-sharing, project objectives assessment, and data-driven decisions.
+Value-based decisions reflection, coordination limits, evaluations justification, and practicality assessment.
+
+
+### Matrix X(4)
+
+Now express the sentences as principles for a professional engineer to follow. 
+
+
+Matrix X(4) Principles for Professional Engineers:
+
+
+Row 1 (Guiding):
+1.Base your decisions on data-driven insights, assess performance, and incorporate probabilistic approaches.
+2.Adhere to design principles, execute methods, comply with standards, and explore innovative solutions.
+3.Prioritize goal-centric strategies, share knowledge, make informed decisions, and analyze feasibility.
+4. Make value-based decisions, set actionable plan limits, benchmark, and assess practicality.
+
+Row 2 (Applying):
+5. Implement actionable plans based on data, execute methods, comply with standards, and explore innovative solutions.
+6. Follow design principles, apply data-driven plans, adhere to standards, and pursue innovation.
+7. Coordinate through knowledge-sharing, execute methods, evaluate comprehensively, and analyze feasibility.
+8. Apply best practices, execute within limits, justify evaluations, and assess practical exploration.
+
+Row 3 (Judging):
+9. Conduct benchmark analysis, provide coordination support, evaluate project objectives, and make informed decisions.
+10. Ensure standards compliance, create actionable plans, evaluate comprehensively, and strive for continuous improvement.
+11. Implement knowledge-based strategies, coordinate knowledge-sharing, conduct comprehensive evaluations, and make data-driven decisions.
+12. Benchmark, share knowledge within limits, justify holistic evaluations, and assess practicality.
+
+Row 4 (Reflecting):
+13. Reflect on value-based decisions, coordinate knowledge-sharing, evaluate comprehensively, and make informed decisions.
+14. Reflect on design principles, execute methods, comply with standards, and engage in continuous learning and development.
+15. Reflect on goal-centric strategies, coordinate knowledge-sharing, assess project objectives, and make data-driven decisions.
+16. Reflect on value-based decisions, coordinate within limits, justify evaluations, and assess practicality.
+
+
+
+### Matrix X(5)
+
+Can you express the meaning of these principles through epithets?
+
+Matrix X(5) Epithets for Professional Engineers:
+
+Row 1 (Guiding):
+1. Data-Driven Decision-Making
+2. Principle-Based Execution
+3. Goal-Centric Strategies
+4. Value-Based Assessment
+
+Row 2 (Applying):
+5. Actionable Plan Implementation
+6. Standards-Compliant Innovation
+7. Knowledge-Coordination Execution
+8. Best Practice Application
+
+Row 3 (Judging):
+9. Benchmark-Driven Analysis
+10. Continuous Improvement Focus
+11. Knowledge-Based Strategies
+12. Holistic Evaluation
+
+Row 4 (Reflecting):
+13. Reflective Value-Based Decision-Making
+14. Lifelong Learning and Development
+15. Goal-Centric Reflection
+16. Practical Reflection
+
+
+This is decided as the resolved Matrix X = Matrix X(5)
+
+----------------------
+
+## Resolved Matrix X
+
+
+Row 1 (Guiding):
+1. Data-Driven Decision-Making
+2. Principle-Based Execution
+3. Goal-Centric Strategies
+4. Value-Based Assessment
+
+Row 2 (Applying):
+5. Actionable Plan Implementation
+6. Standards-Compliant Innovation
+7. Knowledge-Coordination Execution
+8. Best Practice Application
+
+Row 3 (Judging):
+9. Benchmark-Driven Analysis
+10. Continuous Improvement Focus
+11. Knowledge-Based Strategies
+12. Holistic Evaluation
+
+Row 4 (Reflecting):
+13. Reflective Value-Based Decision-Making
+14. Lifelong Learning and Development
+15. Goal-Centric Reflection
+16. Practical Reflection

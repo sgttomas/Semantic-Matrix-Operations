@@ -1,0 +1,114 @@
+## Matrix A 
+Size: 3x4
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+
+Elements: [[‘Values‘, ‘Actions’, ‘Benchmarks’, ‘Feedback’]
+[‘Principles’, ‘Methods’, ‘Standards’, ‘Adaptation’]
+[‘Goals’, ‘Coordination’, ‘Evaluation’, ‘Consolidation’]]
+
+
+## Matrix B
+Size: 4x4
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Feasibility’]
+Row names: [‘Data’, ‘Information’, Knowledge’, ‘Wisdom’]
+Elements: [[‘Necessary, ‘Sufficient‘, ‘Complete’, ‘Probability’]
+[‘Contingent’, ‘Sufficient’ ‘Complete, ‘Possibility’]
+[‘Fundamental’, ‘Appropriate’, ‘Holistic’, ‘Feasibility’]
+[‘Best Practices‘, ‘Limits of’, ‘Justification for’, ‘Practicality’]]
+
+## Matrix C 
+Size: 3x4
+Column names: [‘Guiding’, ‘Applying, ‘Judging’, ‘Reflecting’]
+Row names: [‘Normative Level’, ‘Operational Level’, ‘Evaluative Level’]
+Elements: [['Value-driven Engineering Fundamentals', 'Principle-Guided Method Adaptation', 'Goal-Oriented Coordination Evaluation', 'Value-Based Feasibility']
+['Principle-Guided Adaptive Standardization', 'Coordinated Evaluation and Sufficiency', 'Holistic Evaluation and Adaptation', 'Holistic Engineering Approach']
+['Comprehensive Goal-oriented Coordination', 'Practical Evaluation and Coordination', 'Holistic Engineering Optimization', 'Goal Coordination Feasibility Analysis']]
+
+## Matrix D:
+Size: 3x4
+Column names: ['Normative Level', 'Operational Level', 'Evaluative Level']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Elements:
+["Obtain necessary data to guide value-based decision-making, ensuring alignment with engineering goals and value-driven fundamentals."
+,"Gather sufficient data for action planning, focusing on achieving goals through action-oriented strategies and sufficiency measures."
+,"Collect complete data for benchmark analysis, enabling a comprehensive assessment of performance against established benchmarks."]
+
+["Study probabilistic approaches to reflect on the improvement of engineering processes and incorporate practical value-based feedback."
+,"Acquire contingent information for principle-led design, addressing uncertainties through the application of operational principles and contingencies."
+,"Access sufficient information for method-driven execution, ensuring the implementation of engineering methods and guided adaptation."]
+
+["Obtain complete information for standard compliance, ensuring quality assurance and comprehensive adherence to established standards."
+,"Investigate possibilities in adaptive exploration, evaluating potential improvements to processes using feasible method exploration."
+,"Use fundamental knowledge to develop goal-centric strategies, consolidating engineering objectives and focusing on goal-oriented outcomes."]
+
+["Foster coordinated efforts by obtaining appropriate knowledge, enabling collaboration and coordination-driven evaluation across teams."
+,"Acquire holistic knowledge for comprehensive evaluation, assessing performance based on complete coordination and judgment."
+,"Analyze the feasibility of engineering goals, utilizing congruent information and goal-wise feasibility analysis for informed decision-making."]
+
+## Matrix K
+Size: 4x3
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Column names: ['Normative Level', 'Operational Level', 'Evaluative Level']
+Elements:
+[['Utilize necessary data to make value-based decisions, ensuring your engineering goals align with stakeholder values and ethical considerations.',
+'Embrace contingent information to guide principle-led designs, addressing uncertainties and risks by applying robust engineering principles and mitigating potential issues.',
+'Develop goal-centric strategies based on fundamental knowledge, consolidating engineering objectives and maintaining focus on delivering successful outcomes.'],
+
+['Leverage sufficient data to create actionable plans, focusing on pragmatic strategies and efficient resource allocation to achieve project objectives.',
+'Access sufficient information for method-driven execution, streamlining the implementation of engineering methods and fostering agile adaptation to changing circumstances.',
+'Foster coordinated efforts across teams by sharing appropriate knowledge, enhancing collaboration and promoting coordination-driven evaluations for project success.'],
+
+['Harness complete data for benchmark analysis, enabling comprehensive performance assessments and continuous improvement against industry standards.',
+'Ensure standard compliance by obtaining complete information, upholding quality assurance, and adhering to industry standards and regulatory requirements.',
+'Conduct comprehensive evaluations by acquiring holistic knowledge, assessing performance against project objectives, and making data-driven decisions for improvement.'],
+
+['Apply probabilistic approaches to enhance engineering processes, incorporating practical value-based feedback and embracing reflective learning for improvement.',
+'Investigate adaptive exploration possibilities to drive innovation, evaluating potential process improvements and fostering a culture of continuous learning and development.',
+'Analyze the feasibility of engineering goals to ensure realistic expectations, employing congruent information and comprehensive analysis to make informed decisions.']]
+
+
+## Matrix J
+Size: 3x4
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Possibility’]
+Row names: [‘Data’, ‘Information’, Knowledge’]
+Elements:[[‘Necessary, ‘Sufficient‘, ‘Complete’, ‘Probability’][‘Contingent’, ‘Sufficient’ ‘Complete, ‘Possibility’][‘Fundamental’, ‘Appropriate’, ‘Holistic’, ‘Feasibility’]]
+
+
+## Matrix X
+
+Matrix X - Principles for Professional Engineers:
+Size: 4x4
+Column names: ['Necessity (vs Contingency)', 'Sufficiency', 'Completeness', 'Possibility']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Elements: 
+[['Base your decisions on data-driven insights, assess performance, and incorporate probabilistic approaches', 
+'Adhere to design principles, execute methods, comply with standards, and explore innovative solutions',
+'Prioritize goal-centric strategies, share knowledge, make informed decisions, and analyze feasibility',
+'Make value-based decisions, set actionable plan limits, benchmark, and assess practicality']
+
+['Implement actionable plans based on data, execute methods, comply with standards, and explore innovative solutions',
+'Follow design principles, apply data-driven plans, adhere to standards, and pursue innovation',
+'Coordinate through knowledge-sharing, execute methods, evaluate comprehensively, and analyze feasibility',
+'Apply best practices, execute within limits, justify evaluations, and assess practical exploration']
+
+['Conduct benchmark analysis, provide coordination support, evaluate project objectives, and make informed decisions',
+'Ensure standards compliance, create actionable plans, evaluate comprehensively, and strive for continuous improvement',
+'Implement knowledge-based strategies, coordinate knowledge-sharing, conduct comprehensive evaluations, and make data-driven decisions',
+'Benchmark, share knowledge within limits, justify holistic evaluations, and assess practicality']
+
+['Reflect on value-based decisions, coordinate knowledge-sharing, evaluate comprehensively, and make informed decisions',
+'Reflect on design principles, execute methods, comply with standards, and engage in continuous learning and development',
+'Reflect on goal-centric strategies, coordinate knowledge-sharing, assess project objectives, and make data-driven decisions',
+'Reflect on value-based decisions, coordinate within limits, justify evaluations, and assess practicality']]
+
+## Matrix Z
+
+Matrix Z:
+Size: 4x4
+Column names: ['Necessity (vs Contingency)', 'Sufficiency', 'Completeness', 'Possibility']
+Row names: ['Guiding', 'Applying', 'Judging', 'Reflecting']
+Elements: [['Data-Driven Decision-Making', 'Principle-Based Execution', 'Goal-Centric Strategies', 'Value-Based Assessment']
+['Actionable Plan Implementation', 'Standards-Compliant Innovation', 'Knowledge-Coordination Execution', 'Best Practice Application']
+['Benchmark-Driven Analysis', 'Continuous Improvement Focus', 'Knowledge-Based Strategies', 'Holistic Evaluation']
+['Reflective Value-Based Decision-Making', 'Lifelong Learning and Development', 'Goal-Centric Reflection', 'Practical Reflection']]

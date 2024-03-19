@@ -1,0 +1,130 @@
+# Procedure to resolve the meanings of an element in an ontological matrix, and the product of semanantic matrix operations.
+
+##Matrix A, B:
+
+### Multiplication of terms in C
+Combine the terms of the column and row by "multiplying" the meaning of the word-pair as follows:
+
+Multiplication means the semantics of the terms are resolved by:
+1. Combining the meaning of words into a word-pair
+2. Generating a coherent word or statement from the word-pair. 
+So (word a)*(word b) = “(word a)(word b)” which means (word c). 
+Example (sufficient)*(reason) = “sufficient-reason” = justification.
+
+###Ontology matrix and semantic matrix generation (Matrix A and B):
+0 "seed" - Interpret these statements considering the corresponding meaning of the column name and row name associated with that element.
+1 - Transpose this into the context of generating engineering knowledge 
+***This operation was performed sufficiently to resolve consistent elements for Matrices A and B.  
+***While improvements are absolutely possible, the focus is on developing other parts of the framework.
+***At this level the elements are single words that convey a meaning.
+
+
+##Matrix C
+
+### Semantic Matrix Dot Product Operation
+
+Define matrices A, B, and C to have this relationship:
+
+A*B=C
+
+Then C is a dot product of matrices A and B.
+
+C = [[A(1,1)*B(1,1)+A(1,2)*B(2,1)+A(1,3)*B(3,1)+A(1,3)*B(4,1),
+A(1,1)*B(1,2)+A(1,2)*B(2,2)+A(1,3)*B(3,2)+A(1,3)*B(4,2),
+A(1,1)*B(1,3)+A(1,2)*B(2,3)+A(1,3)*B(3,3)+A(1,3)*B(4,3,
+A(1,1)*B(1,4)+A(1,2)*B(2,4)+A(1,3)*B(3,4)+A(2,3)*B(4,4)] 
+
+[A(2,1)*B(1,1)+A(2,2)*B(2,1)+A(2,3)*B(3,1)+A(2,3)*B(4,1), 
+A(2,1)*B(1,2)+A(2,2)*B(2,2)+A(2,3)*B(3,2)+A(2,3)*B(4,2),
+A(2,1)*B(1,3)+A(2,2)*B(2,3)+A(2,3)*B(3,3)+A(2,3)*B(4,3),
+A(2,1)*B(1,4)+A(2,2)*B(2,4)+A(2,3)*B(3,4)+A(2,3)*B(4,4)]
+
+[A(3,1)*B(1,1)+A(3,2)*B(2,1)+A(3,3)*B(3,1)+A(3,3)*B(4,1),
+A(3,1)*B(1,2)+A(3,2)*B(2,2)+A(3,3)*B(3,2)+A(3,3)*B(4,2),
+A(3,1)*B(1,3)+A(3,2)*B(2,3)+A(3,3)*B(3,3)+A(3,3)*B(4,3),
+A(3,1)*B(1,4)+A(3,2)*B(2,4)+A(3,3)*B(3,4)+A(3,3)*B(4,4)]]
+
+
+To provide a semantic interpretation of matrix dot product operations for Matrix C, use the following defintions:
+
+### Multiplication of terms in C
+Multiplication means the semantics of the terms are resolved by:
+1. Combining the meaning of words into a word-pair
+2. Generating a coherent word or statement from the word-pair. 
+So (word a)*(word b) = “(word a)(word b)” which means (word c). 
+Example (sufficient)*(reason) = “sufficient-reason” = justification.
+
+### Addition of terms in C
+Addition means joining words and word-pairs to form a longer statement. 
+So (word c)+(word d)+(word e)+(word f) = "(word c) (word d) (word e) (word f)"
+Example (faisal)+(has)+(sufficient)+(reason) = faisal has sufficient reason
+
+Therefore A*B=C
+
+###Datasheet Entry iteration levels (Matrix C):
+0 - Interpret these statements considering the corresponding meaning of the column name and row name associated with that element. 
+1 - Transpose this into the context of generating professional engineering knowledge.
+2 - Simplify the statements by using epithets.
+***At this level the elements are statements that define a set of categories that span the process of generating engineering knowledge
+
+##Matrix D
+
+A+Bt+C=D
+
+Where A is matrix A from above, C is matrix C from above, and Bt is a truncated form of matrix B defined as:
+
+###Matrix Bt ("Wisdom" row removed)
+Column names: [‘Necessity (vs Contingency)’, ‘Sufficiency’, ‘Completeness’, ‘Feasibility]
+Row names: [‘Data’, ‘Information’, Knowledge’]
+Elements: Elements: [[‘Necessary Data’, ‘Sufficient Data‘, ‘Complete Data’, ‘Probability’][‘Contingent Information’, ‘Sufficient Information’ ‘Complete Information’, ‘Possibility’][‘Fundamental Knowledge’, ‘Appropriate Knowledge’, ‘Holistic Knowledge, ‘Feasibility’]] 
+
+To add the three matrices A, Bt, and C together, we need to perform element-wise addition.  
+We are no longer just generating statements.  
+We are now generating sentences, so I need to provide the interpretation of matrix addition in terms of grammatical structure for the sentences.
+
+For each row i = 1, 2, 3 and each column j = 1, 2, 3, 4 
+Generate elements D(i,j) by:
+D(i,j)] = “A(i,j) + "applied to describe or frame the topic, " + Bt(i,j) + "applied to compare the topic to the values, goals and standards, " + C(i,j) + " applied to resolve the topic." ”
+
+Therefore A+Bt+C=D
+
+
+###Design Checklist iteration levels (Matrix D):
+0 - Interpret these sentences considering the corresponding meaning of the column name and row name associated with that element.  
+1 - Simplify these sentences by looking for themes and concepts and using typical [industry / engineering / domain] jargon to express them.   
+2 - Now express the sentences as procedures for a professional engineer to follow.  
+3 -  Simplify the sentences by using epithets.
+***At this level the elements are sentences that define how the element of engineering knowledge is generated
+
+
+##Matrix X
+Multiplication means the semantics of the terms are resolved by combining the meaning of the terms. In this sense the J terms are the lens through which the themes and concepts of the sentences of K are seen through.
+Addition sequence ties together the clauses of the sentence that were formed by multiplication.
+The sentences have the general form of a claim and a justification.
+Where:
+[Claim] = [necessities or contingencies] + [sufficiency]
+[Justification] = [completeness] +[possibility]
+So the general sentence structure is:
+[necessities or contingencies] + [sufficiency]+ [completeness] + [possibility]
+
+These sentences are the elements of Matrix X.  Generate the 16 elements of matrix X, beginning at (1,1) then (1,2), (1,3), ….(4,4)
+
+###Design Guide iteration levels (Matrix X):
+0 - Interpret these sentences considering the corresponding meaning of the column name and row name associated with that element.  Organize them by column.
+1 - Explain these sentences through themes and concepts by employing typical [industry / engineering / domain] jargon to express them.
+2 - Now express the sentences as principles for a professional engineer to follow.
+3 - Resolve the meaning of these principles into brief statements or epithets
+***At this level the elements are complex, compound sentences that convey the principles of why that element of engineering knowledge is generated that way
+***By distilling down these principles into epithets, we can evaluate the consistency of the semantic matrix operations.  
+
+
+
+###Iterations and statistical learning:
+
+Producing many iterations of matrices D and X for a specific application and "resolving" a central/coherent/repeated meaning will generate the most useful semantics for working with an LLM.
+These "fuzzy boundaries" are improved by actually mathematically scoring the results of generated knowledge and using real math to refine the underlying code of the LLM and hypergraph interaction.
+
+This occurs in the framework during a second, reflective layer that mirrors this approach for Matrices A through X, but connects the final solution for the specific a human evaluation and approval of results.
+This relfective layer is part of the machine learning by human reinforcement module but is not explored further in this version of Chirality AI.
+
+{FURTHER RESEARCH NEEDED:  Do the more abstract, or more meaningfully coherent versions of the matrices work better with hypergraphs?}
