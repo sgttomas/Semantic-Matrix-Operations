@@ -1,21 +1,5 @@
 # Semantic-Matrix-Operations
-Semantic Matrix Operations
-I recently introduced the concept of a “semantic matrix” in my discussion of my project management framework for knowledge workers.  
-https://www.linkedin.com/pulse/my-project-management-framework-knowledge-workers-ryan-tufts-xi2xc/?trackingId=ePdOjV8FSE2YzIH1Rk9M2w%3D%3D
-I didn’t call it that, but it is in fact such a thing, and I even gave a demonstration of how a semantic matrix works.  To recap, and formally introduce the concept of a semantic matrix, here is a reproduction of the task management semantic matrix:
 
- 
-
-And I described these domains as being arranged in this manner because they were related to categories assigned to the row and column:
- 
-
-And the example I gave of how this works was:
- 
-
-Let’s explore this concept further.  We are using the abstraction of a mathematical structure called a “matrix” and applying some kind of combinatorial rules to derive the contents of this matrix.  How much further can we push the metaphor?  
-
-Wait, WHY are we doing this?  Wait, HOW are we doing to do this? Wait, WHAT are we doing?!?
-Okay, in reverse order:
 
 WHAT: we are going to extend a mathematical concept into a new domain using a modified set of axioms about operations and objects. This is normal stuff for math. It could be completely useless, incoherent nonsense, but if it’s fun to try to work it out the math nerd in me is going to go ahead with it.  Who’s with me!!! (2 people….both my parents….well, it’s a start!)
 
