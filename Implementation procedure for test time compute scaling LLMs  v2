@@ -1,0 +1,120 @@
+OPERATIVE Implementation procedure for test time compute scaling LLMs  v2
+
+These are instructions to the LLM to actually generate knowledge in response to a problem statement, following the framework.
+1) review the Problem Statement and parse it and allocate it to categories given by the elements of [A] and [B].
+2) based on the problem statement matrices [A] and [B], generate a Data Sheet that contains the necessary user inputs and sufficient other categories to properly define the problem solution according to the statements in elements of [C].
+3) based on the Problem Statement and the Data Sheet, generate a Standard Procedure for resolving the problem, according to the statements of [D].
+4) based on the Problem Statement, Data Sheet, and Standard Procedure, generate a Guidance Document that identified prerequisites and successors to the Problem Statement and orients the solution with the wider context, following from the elements of [X].
+5) based on the Problem Statement, Data Sheet, Standard Procedure, and Guidance Document, generate a Checklist to identify the most crucial areas for the task and problem statement to be complete and consistent, following from the elements of [Z].
+6) based on the documents generated, generate Solution Statements that answer the Problem Statement, following from the elements of [M]
+7) considering the Solution Statement, Checklist, Guidance Document, and Standard Procedure, iterate on the Data Sheet to produce a new version.  Then iterate on the Standard Procedure.  Then iterate on the Guidance Document.  Then iterate on the Checklist.  Then generate iterative Solution Statements, following from the elements of [W]
+8) Now iterate over the entire document cycle a second time, culminating in a second iteration of Solution Statements, following from the elements of [U].
+9) Now iterate over the entire document cycle a third time, culminating in a third iteration of the Solution Statement.
+Now the human checks for consistency between the Problem Statement and the Solution Statements, to determine if the problem is resolved.  Use of [N] is only for machine learning.
+
+# Detailed Iterative Implementation Instructions
+
+## Document 1 - Data Sheet
+
+The Data Sheet is for user data entry needed to define and resolve the task and address the problem statement.  ### Format  The Data Sheet is a table with column headings as follows: ‘ID #’, ‘Data Field’, ‘Data Units’, ‘Data Type’, ‘References to data source’.  ## Version 1  Generate Data Sheet V1.
+
+Interpret Matrices [A] and [B] in the context of the Data Sheet (and so on and so forth mapping to all the components for all the logical steps, iteratively <— need to write these instructions.	
+
+*********************
+
+## Document 2 - Standard Procedure
+
+The Standard Procedure specifies the necessary and sufficient instructions for the user to identify, analyze, and decide on the appropriate data entry needed to define and resolve the task and address the problem statement.  ### Format  A hierarchical list.  ## Version 1  Considering the Data Sheet V1, generate Standard Procedure V1.
+
+*********************
+
+## Document 3 - Guidance Document
+
+The Guidance Document orients the user to the wider context of the task and problem statement.  If known, it identifies the precedents and antecedents of the task once the problem statement is addressed.  ### Format  A narrative document with headings and subheadings.  ## Version 1  Considering the Data Sheet V1 and Standard Procedure V1, generate the Guidance Document V1
+
+*********************
+
+## Document 4 - Checklist
+
+The Checklist is used to identify the most crucial areas for the task and problem statement to be complete and consistent.    ### Format  An enumerated list.  ## Version 1  Considering the Data Sheet V1, Standard Procedure V1 and the Guidance Document V1, generate the Checklist V1
+
+*********************
+
+## Datasheet V2
+
+Considering the Standard Procedure V1, the Guidance Document V1, and the Checklist V1, regenerate the Data Sheet V2
+
+*********************
+
+## Standard Procedure V2
+
+Considering the Data Sheet V2, the Guidance Document V1, and the Checklist V1, regenerate the Standard Procedure V2
+
+*********************
+
+## Guidance Document V2
+
+Considering the Data Sheet V2, the Standard Procedure V2, and the Checklist V1, regenerate the Guidance Document V2
+
+*********************
+
+## Checklist V2
+
+Considering the Data Sheet V2, the Standard Procedure V2, and the Guidance Document V2, regenerate the Checklist V2
+
+*********************
+
+## Datasheet V3
+
+Considering the Standard Procedure V2, the Guidance Document V2, and the Checklist V2, revise the Data Sheet to V3
+
+*********************
+
+## Standard Procedure V3
+
+Considering the Data Sheet V3, the Guidance Document V2, and the Checklist V2, revise the Standard Procedure to V3
+
+*********************
+
+## Guidance Document V3
+
+Considering the Data Sheet V3, the Standard Procedure V3, and the Checklist V2, revise the Guidance Document to V3
+
+*********************
+
+## Checklist V3
+
+Considering the Data Sheet V3, the Standard Procedure V3, and the Guidance Document V3, revise the Checklist to V3
+
+**********************************
+
+
+#Example problem statement
+
+### chose a role
+
+you are an expert in piping engineering and ASME, and API codes and standards.
+
+### define the task
+
+The maintenance team is replacing a pipe spool (NPS 6, Sch 80, A106-B, 500 deg-F design temp, 350 psig design pressure) in rich amine service.  The task is to cut out the old spool and weld in a new one.
+
+### problem statement
+
+specify the weld procedure and all design, examination, testing, and welding parameters and any additional precautions that must be taken.
+
+Answer the problem statement.
+
+*********************
+
+
+The various phases that we followed here were to, starting with a problem statement:
+1. Establish the abstract problem solving space
+2. Apply specific criteria for each deliverable
+3. Generate the abstract solution space for those deliverables
+4. Instantiate the abstract space for the specific problem
+5. Generate the search tokens using the four documents
+Interpret the abstract solution space in light of the content of these documents, iterative (many times, minimum 3 iterations for each of the 4 Documents)
+7. With the solution space and search complete, generate an answer to the problem statement. 
+
+*********************
